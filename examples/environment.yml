@@ -1,0 +1,78 @@
+# Conda environment for Awesome Data Science Agents
+# Create with: conda env create -f environment.yml
+
+name: data-science-agents
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Python version
+  - python=3.9
+
+  # Core data science packages
+  - pandas>=1.5.0
+  - numpy>=1.21.0
+  - scipy>=1.9.0
+
+  # Machine learning
+  - scikit-learn>=1.1.0
+  - xgboost>=1.6.0
+  - lightgbm>=3.3.0
+
+  # Visualization
+  - matplotlib>=3.5.0
+  - seaborn>=0.11.0
+  - plotly>=5.10.0
+
+  # Jupyter ecosystem
+  - jupyter>=1.0.0
+  - jupyterlab>=3.4.0
+  - ipywidgets>=8.0.0
+
+  # Statistical analysis
+  - statsmodels>=0.13.0
+
+  # Database connectivity
+  - sqlalchemy>=1.4.0
+  - psycopg2>=2.9.0
+
+  # Web scraping
+  - requests>=2.28.0
+  - beautifulsoup4>=4.11.0
+
+  # Progress tracking
+  - tqdm>=4.64.0
+
+  # Configuration
+  - pyyaml>=6.0
+
+  # Additional tools via pip
+  - pip
+  - pip:
+    # Code quality
+    - black>=22.0.0
+    - flake8>=5.0.0
+    - mypy>=0.971
+
+    # Performance optimization
+    - numba>=0.56.0
+
+    # Experiment tracking
+    - mlflow>=1.27.0
+
+    # Model serving
+    - fastapi>=0.85.0
+    - uvicorn>=0.18.0
+
+    # Time series
+    - prophet>=1.1.0
+
+    # Data validation
+    - pytest>=7.0.0
+
+    # Environment variables
+    - python-dotenv>=0.20.0
+
+    # Advanced visualization
+    - altair>=4.2.0
