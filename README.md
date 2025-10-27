@@ -9,6 +9,11 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![中文](https://img.shields.io/badge/lang-中文-red.svg)](README_CN.md)
 
+[![GitHub stars](https://img.shields.io/github/stars/StanleyChanH/awesome-claude-data-agents?style=social)](https://github.com/StanleyChanH/awesome-claude-data-agents)
+[![GitHub forks](https://img.shields.io/github/forks/StanleyChanH/awesome-claude-data-agents?style=social)](https://github.com/StanleyChanH/awesome-claude-data-agents/network)
+[![GitHub issues](https://img.shields.io/github/issues/StanleyChanH/awesome-claude-data-agents)](https://github.com/StanleyChanH/awesome-claude-data-agents/issues)
+[![GitHub license](https://img.shields.io/github/license/StanleyChanH/awesome-claude-data-agents)](https://github.com/StanleyChanH/awesome-claude-data-agents/blob/master/LICENSE)
+
 ## ⚠️ Important Notice
 
 **This project is experimental and token-intensive.** The data science agents are designed for complex analytical workflows and may consume significant tokens during data exploration and modeling phases.
@@ -88,6 +93,15 @@ claude "use @data-science-orchestrator and analyze this dataset to build a predi
 
 Your AI data science team will automatically detect your data and use the right specialists!
 
+## 🌟 Why Star This Project?
+
+- **Stay Updated**: Get notified of new agents, features, and improvements
+- **Show Support**: Help us grow the AI data science community
+- **Community Trust**: Stars indicate trust and encourage others to use this project
+- **Motivation**: Your stars motivate us to keep building amazing AI agents!
+
+If you find this project helpful, **please consider giving it a ⭐** - it only takes a second but makes a huge difference!
+
 ## 🎯 How Auto-Configuration Works
 
 The @data-team-configurator automatically sets up your optimal AI data science team. When invoked, it:
@@ -159,10 +173,12 @@ The @data-team-configurator automatically sets up your optimal AI data science t
 
 ## 💬 Join The Community
 
-- ⭐ **Star this repo** to show support
-- 🐛 [Report issues](https://github.com/StanleyChanH/awesome-claude-data-agents/issues)
-- 💡 [Share ideas](https://github.com/StanleyChanH/awesome-claude-data-agents/discussions)
-- 🎉 [Success stories](https://github.com/StanleyChanH/awesome-claude-data-agents/discussions/categories/show-and-tell)
+- ⭐ **Give this repo a star** - It helps more people discover the project!
+- 🐛 [Report issues](https://github.com/StanleyChanH/awesome-claude-data-agents/issues) - Found a bug? Let us know!
+- 💡 [Share ideas](https://github.com/StanleyChanH/awesome-claude-data-agents/discussions) - Have suggestions? We'd love to hear them!
+- 🎉 [Success stories](https://github.com/StanleyChanH/awesome-claude-data-agents/discussions/categories/show-and-tell) - Show us what you've built!
+
+**Star History**: Every star counts and helps us reach more developers who need AI-powered data science tools!
 
 ## 📄 License
 

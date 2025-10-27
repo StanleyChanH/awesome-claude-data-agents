@@ -9,6 +9,11 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![中文](https://img.shields.io/badge/lang-中文-red.svg)](README_CN.md)
 
+[![GitHub stars](https://img.shields.io/github/stars/StanleyChanH/awesome-claude-data-agents?style=social)](https://github.com/StanleyChanH/awesome-claude-data-agents)
+[![GitHub forks](https://img.shields.io/github/forks/StanleyChanH/awesome-claude-data-agents?style=social)](https://github.com/StanleyChanH/awesome-claude-data-agents/network)
+[![GitHub issues](https://img.shields.io/github/issues/StanleyChanH/awesome-claude-data-agents)](https://github.com/StanleyChanH/awesome-claude-data-agents/issues)
+[![GitHub license](https://img.shields.io/github/license/StanleyChanH/awesome-claude-data-agents)](https://github.com/StanleyChanH/awesome-claude-data-agents/blob/master/LICENSE)
+
 ## ⚠️ 重要说明
 
 **本项目处于实验阶段且消耗大量token。** 数据科学智能体专为复杂的分析工作流程设计，在数据探索和建模阶段可能会消耗大量token。
@@ -88,6 +93,15 @@ claude "使用@data-science-orchestrator分析此数据集以构建预测模型"
 
 您的AI数据科学团队将自动检测您的数据并使用合适的专家！
 
+## 🌟 为什么给这个项目点星？
+
+- **保持更新**：获取新智能体、功能和改进的通知
+- **展示支持**：帮助我们发展AI数据科学社区
+- **社区信任**：星标表示信任并鼓励他人使用这个项目
+- **激励动力**：您的星标激励我们继续构建出色的AI智能体！
+
+如果您觉得这个项目有帮助，**请考虑给它一个 ⭐** - 只需要一秒钟，但会产生巨大的影响！
+
 ## 🎯 自动配置工作原理
 
 @data-team-configurator自动为您设置最佳的AI数据科学团队。调用时，它会：
@@ -159,10 +173,12 @@ claude "使用@data-science-orchestrator分析此数据集以构建预测模型"
 
 ## 💬 加入社区
 
-- ⭐ **为这个仓库点赞** 以示支持
-- 🐛 [报告问题](https://github.com/StanleyChanH/awesome-claude-data-agents/issues)
-- 💡 [分享想法](https://github.com/StanleyChanH/awesome-claude-data-agents/discussions)
-- 🎉 [成功故事](https://github.com/StanleyChanH/awesome-claude-data-agents/discussions/categories/show-and-tell)
+- ⭐ **给这个仓库点星** - 帮助更多人发现这个项目！
+- 🐛 [报告问题](https://github.com/StanleyChanH/awesome-claude-data-agents/issues) - 发现了bug？告诉我们！
+- 💡 [分享想法](https://github.com/StanleyChanH/awesome-claude-data-agents/discussions) - 有建议？我们很乐意倾听！
+- 🎉 [成功故事](https://github.com/StanleyChanH/awesome-claude-data-agents/discussions/categories/show-and-tell) - 向我们展示您构建的项目！
+
+**Star History**：每个星标都很重要，帮助我们触达更多需要AI驱动数据科学工具的开发者！
 
 ## 📄 许可证
 
