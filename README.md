@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Awesome Claude Data Science Agents Logo" width="200"/>
+</p>
+
 # Awesome Claude Data Science Agents - AI Analytics Team 🚀
 
 **Supercharge Claude Code with a specialized team of AI agents** for data analysis, machine learning, visualization, and data science workflows.

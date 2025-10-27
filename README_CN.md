@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Awesome Claude Data Science Agents Logo" width="200"/>
+</p>
+
 # Awesome Claude 数据科学智能体团队 🚀
 
 **使用专业的AI智能体团队增强Claude Code**，专门用于数据分析、机器学习、可视化和数据科学工作流程。
